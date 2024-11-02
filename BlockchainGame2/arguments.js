@@ -1,0 +1,1 @@
+module.exports = ["CourseOpeningNFT", "CONFT"];
